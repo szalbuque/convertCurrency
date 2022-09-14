@@ -1,0 +1,16 @@
+java.lang.Math
+    Math.sqrt(n) : raiz quadrada
+    Math.pow(x,y) : potência (x elevado a y)
+    Math.log(a) : logaritmo natural de a
+
+Interface gráfica do usuário (GUI: Graphical User Interface):
+    AWT, SWING, Plataforma JavaFX
+
+SWING (foi descontinuado mas ainda é usada)
+    import javax.swing.*;
+
+JavaFX (não é nativa) é usada como se fosse um plugin.
+
+JOptionPane (classe do pacote swing)
+    Pacote javax.swing.JOptionPane;
+    Interface gráfica báxica (caixas de diálogo)
